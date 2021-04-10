@@ -1,0 +1,20 @@
+apt-get update (recherche des mises a jour)
+
+apt-get upgrade (installation des mises à jour)
+
+apt-get install apache2 (installation de apache2)
+
+apt install libapache2-mod-php (installation de php)
+
+nano /var/www/html/info.php (création du fichier info.php pour tester si php est bien installé sur la machine)
+
+apt-get install mysql-server (installation de mysql)
+
+sudo mysql -u root (On accède à l'utilisateur root dans MySQL pour lui créer un mot de passe (Voir la suite des commandes ci-après))
+
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'le_mot_de_pass_choisi';
+FLUSH PRIVILEGES;
+QUIT;
+
+apt-get install phpmyadmin (installation de phpmyadmin)
+
