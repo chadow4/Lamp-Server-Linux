@@ -1,4 +1,4 @@
-**Installe un serveur web sur un vps linux**
+**Installer un serveur web sur un vps linux**
 
 Bonjour tout le monde, voici les 3 fichiers à utiliser pour installer un serveur web sur son vps linux :
 
