@@ -17,10 +17,5 @@
 
                         }
                         echo 'Connexion reussie';
-                ?>
-                
-
-                
-        
         </body>
 </html>
