@@ -1,4 +1,4 @@
-apt-get update (recherche des mises a jour)
+```apt-get update``` (recherche des mises a jour)
 
 apt-get upgrade (installation des mises à jour)
 
