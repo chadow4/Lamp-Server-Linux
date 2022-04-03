@@ -1,4 +1,4 @@
-# INSTALL LAMP SERVER ON LINUX
+#  LAMPSERVER-Linux 
 
 Hello everyone, here are the 3 files to use to install a web server on your vps linux :
 
