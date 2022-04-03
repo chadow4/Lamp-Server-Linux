@@ -1,11 +1,11 @@
-**Installer un serveur web sur un vps linux**
+# INSTALL LAMP SERVER ON LINUX
 
-Bonjour tout le monde, voici les 3 fichiers à utiliser pour installer un serveur web sur son vps linux :
+Hello everyone, here are the 3 files to use to install a web server on your vps linux :
 
-- les commandes.txt ==> toutes les commandes nécessaires à l'installation du serveur web sur votre machine
+- commands.txt ==> all the commands necessary to install the web server on your machine
 
-- connexion.php ==> il permet de vérifier si la connexion entre la base de données et le site internet est effective
+- connexion.php ==> it allows to check if the connection between the database and the website is effective
 
-- info.php ==> vérifier que php est bien installé et obtenir toutes les informations de ce dernier
+- info.php ==> check that php is well installed and obtain all the information from it
 
-Voilà :)
+That's it :)
